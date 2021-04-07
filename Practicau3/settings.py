@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+STATICFILES_DIRS=["C:/Users/terry/Desktop/Python/Practicau3/templates/static"]
 # Application definition
 
 INSTALLED_APPS = [
